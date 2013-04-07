@@ -1,0 +1,13 @@
+retarget.o: Retarget.c
+retarget.o: G:\Keil\ARM\RV31\INC\stdio.h
+retarget.o: G:\Keil\ARM\RV31\INC\rt_misc.h
+retarget.o: serial.h
+retarget.o: ..\FreeRTOS\Source\include\FreeRTOS.h
+retarget.o: G:\Keil\ARM\RV31\INC\stddef.h
+retarget.o: ..\FreeRTOS\Source\include\projdefs.h
+retarget.o: .\FreeRTOSConfig.h
+retarget.o: G:\Keil\ARM\INC\Philips\lpc24xx.h
+retarget.o: ..\FreeRTOS\Source\include\portable.h
+retarget.o: ..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468\portmacro.h
+retarget.o: ..\FreeRTOS\Source\include\mpu_wrappers.h
+retarget.o: console.h

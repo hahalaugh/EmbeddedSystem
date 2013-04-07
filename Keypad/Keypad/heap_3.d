@@ -1,0 +1,12 @@
+heap_3.o: ..\FreeRTOS\Source\portable\MemMang\heap_3.c
+heap_3.o: G:\Keil\ARM\RV31\INC\stdlib.h
+heap_3.o: ..\FreeRTOS\Source\include\FreeRTOS.h
+heap_3.o: G:\Keil\ARM\RV31\INC\stddef.h
+heap_3.o: ..\FreeRTOS\Source\include\projdefs.h
+heap_3.o: .\FreeRTOSConfig.h
+heap_3.o: G:\Keil\ARM\INC\Philips\lpc24xx.h
+heap_3.o: ..\FreeRTOS\Source\include\portable.h
+heap_3.o: ..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468\portmacro.h
+heap_3.o: ..\FreeRTOS\Source\include\mpu_wrappers.h
+heap_3.o: ..\FreeRTOS\Source\include\task.h
+heap_3.o: ..\FreeRTOS\Source\include\list.h

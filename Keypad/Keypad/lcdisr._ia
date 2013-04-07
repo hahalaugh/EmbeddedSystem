@@ -1,0 +1,1 @@
+--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468 -I "G:\Keil\ARM\INC" -I "G:\Keil\ARM\INC\Philips" --list "lcdISR.lst" --xref -o "lcdISR.o" --depend "lcdISR.d" "lcdISR.s"

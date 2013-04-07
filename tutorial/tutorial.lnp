@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "lpc2400.o" "main.o" --strict --scatter "tutorial.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\tutorial.map" -o "tutorial.axf"

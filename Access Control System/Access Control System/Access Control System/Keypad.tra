@@ -1,0 +1,36 @@
+*** Creating Trace Output File 'Keypad.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lpc2400.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"console.o"'
+### List of Objects: adding '"retarget.o"'
+### List of Objects: adding '"serial.o"'
+### List of Objects: adding '"serialisr.o"'
+### List of Objects: adding '"lcdisr.o"'
+### List of Objects: adding '"control.o"'
+### List of Objects: adding '"led.o"'
+### List of Objects: adding '"list.o"'
+### List of Objects: adding '"queue.o"'
+### List of Objects: adding '"tasks.o"'
+### List of Objects: adding '"port.o"'
+### List of Objects: adding '".\portasm.o"'
+### List of Objects: adding '"heap_3.o"'
+### List of Objects: adding '"font5x7.o"'
+### List of Objects: adding '"lcd_grph.o"'
+### List of Objects: adding '"lcd_hw.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "lpc2400.o" "main.o" "console.o" "retarget.o" "serial.o" "serialisr.o" "lcdisr.o" "control.o" "led.o" "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" "heap_3.o" "font5x7.o" "lcd_grph.o" "lcd_hw.o" --strict --scatter "Keypad.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Keypad.map" -o "Keypad.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Keypad.axf'
+### ADS-LD Command File: 'Keypad.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Keypad.lnp', Handle=0x00000318
+### Writing '.lnp' file
+### ADS-LD Command file 'Keypad.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

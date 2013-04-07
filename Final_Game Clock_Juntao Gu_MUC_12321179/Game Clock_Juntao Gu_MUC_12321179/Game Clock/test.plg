@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\CherryLoveMeme\Desktop\Game Clock_Juntao Gu_MUC_12321179\Archive\test.uvproj
+Project File Date:  11/02/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling LPC2400.s...
+compiling main.c...
+compiling Retarget.c...
+compiling Serial.c...
+linking...
+Program Size: Code=4020 RO-data=32 RW-data=36 ZI-data=1388  
+"test.axf" - 0 Error(s), 0 Warning(s).
+Clean started: Project: 'test'
+   deleting intermediate output files for target 'Target 1'

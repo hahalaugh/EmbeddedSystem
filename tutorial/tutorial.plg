@@ -1,0 +1,87 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+G:\Lab\Embedded System\tutorial\tutorial.uvproj
+Project File Date:  10/22/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling LPC2400.s...
+linking...
+tutorial.axf: Warning: L6665W: Neither Lib$$Request$$armlib Lib$$Request$$cpplib defined, not searching ARM libraries.
+tutorial.axf: Error: L6411E: No compatible library exists with a definition of startup symbol __main.
+tutorial.axf: Not enough information to list image symbols.
+tutorial.axf: Not enough information to list the image map.
+tutorial.axf: Finished: 2 information, 1 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+assembling LPC2400.s...
+linking...
+tutorial.axf: Warning: L6665W: Neither Lib$$Request$$armlib Lib$$Request$$cpplib defined, not searching ARM libraries.
+tutorial.axf: Error: L6411E: No compatible library exists with a definition of startup symbol __main.
+tutorial.axf: Not enough information to list image symbols.
+tutorial.axf: Not enough information to list the image map.
+tutorial.axf: Finished: 2 information, 1 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+linking...
+tutorial.axf: Warning: L6665W: Neither Lib$$Request$$armlib Lib$$Request$$cpplib defined, not searching ARM libraries.
+tutorial.axf: Error: L6411E: No compatible library exists with a definition of startup symbol __main.
+tutorial.axf: Not enough information to list image symbols.
+tutorial.axf: Not enough information to list the image map.
+tutorial.axf: Finished: 2 information, 1 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(9): warning:  #1-D: last line of file ends without a newline
+main.c:   }
+main.c:    ^
+main.c(6): warning:  #177-D: variable "b" was declared but never referenced
+main.c:         int b = 6;
+main.c:             ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=1316 RO-data=16 RW-data=0 ZI-data=1384  
+"tutorial.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(11): warning:  #1-D: last line of file ends without a newline
+main.c:   }
+main.c:    ^
+main.c(6): warning:  #550-D: variable "b" was set but never used
+main.c:         int b = 6;
+main.c:             ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=1324 RO-data=16 RW-data=0 ZI-data=1384  
+"tutorial.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(6): warning:  #550-D: variable "b" was set but never used
+main.c:         int b = 6;
+main.c:             ^
+main.c: main.c: 1 warning, 0 errors
+linking...
+Program Size: Code=1324 RO-data=16 RW-data=0 ZI-data=1384  
+"tutorial.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=1328 RO-data=16 RW-data=0 ZI-data=1384  
+"tutorial.axf" - 0 Error(s), 0 Warning(s).
+Load "G:\\Lab\\Embedded System\\tutorial\\tutorial.AXF" 
+Load "G:\\Lab\\Embedded System\\tutorial\\tutorial.AXF" 
+Load "G:\\Lab\\Embedded System\\tutorial\\tutorial.AXF" 
+Build target 'Target 1'
+linking...
+Program Size: Code=1328 RO-data=16 RW-data=0 ZI-data=1384  
+"tutorial.axf" - 0 Error(s), 0 Warning(s).
+Load "G:\\Lab\\Embedded System\\tutorial\\tutorial.AXF" 
+Load "G:\\Lab\\Embedded System\\tutorial\\tutorial.AXF" 
+Load "G:\\Lab\\Embedded System\\tutorial\\tutorial.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

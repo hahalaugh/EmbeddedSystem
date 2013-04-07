@@ -1,0 +1,12 @@
+port.o: ..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468\port.c
+port.o: G:\Keil\ARM\RV31\INC\stdlib.h
+port.o: ..\FreeRTOS\Source\include\FreeRTOS.h
+port.o: G:\Keil\ARM\RV31\INC\stddef.h
+port.o: ..\FreeRTOS\Source\include\projdefs.h
+port.o: .\FreeRTOSConfig.h
+port.o: G:\Keil\ARM\INC\Philips\lpc24xx.h
+port.o: ..\FreeRTOS\Source\include\portable.h
+port.o: ..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468\portmacro.h
+port.o: ..\FreeRTOS\Source\include\mpu_wrappers.h
+port.o: ..\FreeRTOS\Source\include\task.h
+port.o: ..\FreeRTOS\Source\include\list.h

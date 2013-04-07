@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'tutorial.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lpc2400.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "lpc2400.o" "main.o" --strict --scatter "tutorial.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\tutorial.map" -o "tutorial.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'tutorial.axf'
+### ADS-LD Command File: 'tutorial.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'tutorial.lnp', Handle=0x0000078C
+### Writing '.lnp' file
+### ADS-LD Command file 'tutorial.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

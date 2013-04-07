@@ -1,0 +1,16 @@
+console.o: console.c
+console.o: G:\Keil\ARM\RV31\INC\stdlib.h
+console.o: G:\Keil\ARM\RV31\INC\stdio.h
+console.o: G:\Keil\ARM\RV31\INC\string.h
+console.o: ..\FreeRTOS\Source\include\FreeRTOS.h
+console.o: G:\Keil\ARM\RV31\INC\stddef.h
+console.o: ..\FreeRTOS\Source\include\projdefs.h
+console.o: .\FreeRTOSConfig.h
+console.o: G:\Keil\ARM\INC\Philips\lpc24xx.h
+console.o: ..\FreeRTOS\Source\include\portable.h
+console.o: ..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468\portmacro.h
+console.o: ..\FreeRTOS\Source\include\mpu_wrappers.h
+console.o: ..\FreeRTOS\Source\include\task.h
+console.o: ..\FreeRTOS\Source\include\list.h
+console.o: serial.h
+console.o: console.h

@@ -1,0 +1,17 @@
+main.o: main.c
+main.o: G:\Keil\ARM\RV31\INC\stdlib.h
+main.o: ..\FreeRTOS\Source\include\FreeRTOS.h
+main.o: G:\Keil\ARM\RV31\INC\stddef.h
+main.o: ..\FreeRTOS\Source\include\projdefs.h
+main.o: .\FreeRTOSConfig.h
+main.o: G:\Keil\ARM\INC\Philips\lpc24xx.h
+main.o: ..\FreeRTOS\Source\include\portable.h
+main.o: ..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468\portmacro.h
+main.o: ..\FreeRTOS\Source\include\mpu_wrappers.h
+main.o: ..\FreeRTOS\Source\include\task.h
+main.o: ..\FreeRTOS\Source\include\list.h
+main.o: console.h
+main.o: serial.h
+main.o: lcd.h
+main.o: .\LCD\lcd_hw.h
+main.o: .\LCD\lcd_grph.h

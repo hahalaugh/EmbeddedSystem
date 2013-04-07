@@ -1,0 +1,4 @@
+Dependencies for Project 'tutorial', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LPC2400.s)(0x4BB2014E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "g:\Keil\ARM\INC" -I "g:\Keil\ARM\INC\Philips" --list "LPC2400.lst" --xref -o "LPC2400.o" --depend "LPC2400.d")
+F (.\main.c)(0x508573DD)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "g:\Keil\ARM\INC" -I "g:\Keil\ARM\INC\Philips" -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (g:\Keil\ARM\RV31\INC\stdlib.h)(0x4BD63A6E)

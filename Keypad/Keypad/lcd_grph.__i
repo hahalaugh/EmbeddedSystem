@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I. -I..\FreeRTOS\Source\portable\TCD\ARM7_LPC2468 -I..\FreeRTOS\Source\include -I.\LCD -I "G:\Keil\ARM\INC" -I "G:\Keil\ARM\INC\Philips" -DARM7_LPC2468_TCD -o "lcd_grph.o" --omf_browse "lcd_grph.crf" --depend "lcd_grph.d" "LCD\lcd_grph.c"
